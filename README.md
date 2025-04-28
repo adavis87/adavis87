@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Andrew
+- You can reach me at: containerize.it@gmail.com
 
 
 <!---
