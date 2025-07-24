@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Andrew
 - You can reach me at: containerize.it@gmail.com
+- I am currently enrolled at Western Governor's University, studying Computer Science.
 
 <!---
 adavis87/adavis87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
