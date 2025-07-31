@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew
-- You can reach me at: containerize.it@gmail.com
+- You can reach me at: containerize.it@gmail.com  -- please feel free to say hello! 
 - I am currently enrolled at Western Governor's University, studying Computer Science.
 
 <!---
